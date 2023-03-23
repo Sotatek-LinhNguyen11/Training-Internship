@@ -1,0 +1,41 @@
+body{
+    font-family: Arial ;
+    font-size: 13pt;
+    color: #333333;
+ }
+#header{
+    background-color: white;
+ }
+ #logo, #sign_in, #sign_up{
+    height: 60px;
+ }
+ #logo{
+    margin-top: 15px;
+ }
+ #logo h1 a img{
+    width: 60px;
+    height: 60px;
+ }
+ #sign_in, #sign_up{
+    margin-top: 30px;
+ }
+ #main{
+    background-color: #a5b7d9;
+    padding-bottom: 30px;
+    padding-top: 30px;
+ }
+ #main-container{
+    padding-left: 100px;
+    padding-right: 100px;
+ }
+ #main h2{
+    /* text-align: center; */
+    padding-bottom: 10px;
+ }
+ #first_name{
+    margin-right: 10px;
+ }
+ .non-padding{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+ }
